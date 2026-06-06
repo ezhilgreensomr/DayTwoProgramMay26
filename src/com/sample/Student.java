@@ -6,5 +6,6 @@ public class Student {
 		
 		System.out.println("greens technology");
 		System.out.println("greens technology1");
+		System.out.println("greens technology3");
 	}
 }
